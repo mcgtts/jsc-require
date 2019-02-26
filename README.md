@@ -1,3 +1,6 @@
+### support iOS platform
+https://github.com/mcgtts/jsc-require/tree/iOS
+
 ### CommonJS modules in JavaScriptCore
 
 This project is an attempt to add add support for [CommonJS modules](http://wiki.commonjs.org/wiki/Modules/1.1) in [JavaScriptCore engine](http://trac.webkit.org/wiki/JavaScriptCore).
